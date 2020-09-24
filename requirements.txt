@@ -1,0 +1,5 @@
+pandas~=1.1.2
+
+plotly~=4.10.0
+dash~=1.16.1
+pydruid~=0.999.0.dev0
